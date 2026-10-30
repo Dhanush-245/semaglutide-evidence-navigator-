@@ -1,0 +1,6 @@
+{
+  "name": "Semaglutide Evidence Navigator",
+  "description": "Source-grounded, retrieval-augmented, citation-verified, jurisdiction-aware, safety-routed evidence system for Semaglutide, Ozempic, Wegovy, and Rybelsus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
